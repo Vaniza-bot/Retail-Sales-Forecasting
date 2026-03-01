@@ -1,4 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/ML-XGBoost-green)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
+
 # Retail Sales Forecasting
+
+Machine learning project for sales prediction.
+
 
 ## Project Overview
 This project predicts retail sales using machine learning.
