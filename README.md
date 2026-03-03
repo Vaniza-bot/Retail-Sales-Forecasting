@@ -4,7 +4,7 @@
 
 # Retail Sales Forecasting
 
-Machine learning project for sales prediction.
+Machine learning project for sales prediction using XGBoost.
 
 
 ## Project Overview
